@@ -1,0 +1,2 @@
+# ParcialSistemasInteligentes2
+Parcial1
